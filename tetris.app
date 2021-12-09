@@ -1,0 +1,1 @@
+Tetris=||=tetris.icon.png=||=window.location.href='tetris.htm';
