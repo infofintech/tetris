@@ -1,1 +1,1 @@
-Tetris|[1]|sys.tetris.png|[1]|window.location.href='tetris.htm';
+title|[>]|Tetris|[1]|favicon|[>]|sys.tetris.png|[1]|run|[>]|window.location.href='tetris.htm';
